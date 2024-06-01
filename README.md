@@ -1,8 +1,8 @@
 # Main-Flow-Services-Technologies
-This is about the tasks of Data science in python ,Doing internship in Main Flow Services & Technologies,the screenshot of task-01,is here below
+This is about the tasks of Data science with python ,Doing internship in Main Flow Services & Technologies,the screenshot of task-01,is here below
 ![Screenshot (14)](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/825fe594-98dd-47d7-a7f7-16af63c030da)
 
-This is about the tasks of Data science in python,Doing internship in Main Flow Services & Technologies,the screenshot of task-02,is here below
+This is about the tasks of Data science with python,Doing internship in Main Flow Services & Technologies,the screenshot of task-02,is here below
 ![Untitled6 - Jupyter Notebook - Avast Secure Browser 29-05-2024 22_25_10](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/39b24651-7d8a-41f3-80ce-776a49cc5027)
 
 ![Untitled6 - Jupyter Notebook - Avast Secure Browser 29-05-2024 22_25_37](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/20a36d58-4d01-4346-9057-ae0d4d5ff93d)
