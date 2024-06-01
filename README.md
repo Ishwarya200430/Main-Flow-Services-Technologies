@@ -2,10 +2,6 @@
 TITLE:
 Main Flow Services and Technologies Internship - Task Documentation: “Python Basics” Using Python (Jupyter Notebook).
 
-INTERN INFORMATION:
-
-Name:Knduru Ishwarya
-
 INTRODUCTION
 In the realm of programming, data structures are fundamental tools that enable efficient data management and manipulation. Understanding and utilizing these structures effectively is crucial for solving complex problems and optimizing code performance. This code provides a practical demonstration of basic operations on four essential data structures in Python: lists, dictionaries, sets, and tuples.
 
