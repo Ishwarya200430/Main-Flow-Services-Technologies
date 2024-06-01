@@ -9,9 +9,9 @@ Load a CSV file into a Pandas DataFrame. Perform operations like filtering data 
 
 ## INTERN INFORMATION:
 
-**Name:** Yash Sanjay Kadyan
+**Name:** kunduru Ishwarya
 
-**ID:** ID-11896
+**ID:** ID-200430
 
 
 # INTRODUCTION
