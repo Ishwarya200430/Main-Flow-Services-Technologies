@@ -189,6 +189,19 @@ This is about the tasks of Data science with python,Doing internship in Main Flo
 
 ![Untitled6 - Jupyter Notebook - Avast Secure Browser 29-05-2024 22_29_34](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/e513d46f-5ad3-4c92-a0b6-840c009745f9)
 
+This is about the tasks of Data science with python ,Doing internship in Main Flow Services & Technologies,the screenshot of task-03,is here below
+using pandas,numpy,seaborn,matplotlib 
+
+![Untitled8 - Jupyter Notebook - Avast Secure Browser 07-06-2024 18_35_50](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/ceef8612-5afa-47ba-931b-69a00b419b23)
+
+![Untitled8 - Jupyter Notebook - Avast Secure Browser 07-06-2024 18_36_31](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/b21228df-24d4-471f-b05e-5765ecb9d399)
+
+![Untitled8 - Jupyter Notebook - Avast Secure Browser 07-06-2024 18_36_31](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/a5ac8f37-bd99-4bab-84d0-6f1c7a141b02)
+
+![Untitled8 - Jupyter Notebook - Avast Secure Browser 07-06-2024 18_36_31](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/a56c5e11-7dba-43df-912d-065685572063)
+
+![Untitled8 - Jupyter Notebook - Avast Secure Browser 07-06-2024 18_37_14](https://github.com/Ishwarya200430/Main-Flow-Services-Technologies/assets/164725009/90f7b8ea-4b80-4051-9719-4a3850d35cd3)
+
 
 
 
